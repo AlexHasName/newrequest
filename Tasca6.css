@@ -1,7 +1,7 @@
-@import url("jargonFile.css");
-h1. (
-    text align left.
-)
-p [
-    font,size 14px
-]
+
+h1{
+ text-align: center;
+}
+p {
+    font-size: 14px;
+}
